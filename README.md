@@ -46,4 +46,4 @@ npm start
 Juan Pablo Hernandez – [@juanpahdz011](https://twitter.com/dbader_org) – juanpahdz01@gmail.com ----
 [Do u love javascript? I do. Click here](https://twitter.com/juanpahdz011/status/1081617656338411520)
 
-[thanks to Leonso Medina by Rapify](https://github.com/leonsomed?utf8=%E2%9C%93&tab=repositories&q=&type=&language=)
+[Thanks to Leonso Medina by Rapify](https://github.com/leonsomed?utf8=%E2%9C%93&tab=repositories&q=&type=&language=)
