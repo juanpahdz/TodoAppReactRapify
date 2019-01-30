@@ -16,6 +16,7 @@ import './style.css'
 function TodoPage(props) {
     const {
         items,
+        error,
         handleNewItem,
         handleRemoveItem,
         handleChangeNewItem,
@@ -36,9 +37,10 @@ function TodoPage(props) {
                     onClick={handleNewItem}
                 />
 
-                <Callout intent={Intent.DANGER}>
-                    Creo que hay un grave problema
-                </Callout>
+                {error && 
+                    <Callout intent={Intent.DANGER}>
+                        {error}
+                    </Callout>}
 
                 <Divider/>
 
